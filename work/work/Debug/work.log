@@ -1,0 +1,90 @@
+﻿生成启动时间为 2022/4/28 20:18:21。
+     1>项目“D:\沐戈\work\work\work.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+     1>cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+         源.cpp
+     1>d:\沐戈\work\work\源.cpp(39): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+     1>d:\沐戈\work\work\源.cpp(77): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>d:\沐戈\work\work\源.cpp(289): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>d:\沐戈\work\work\源.cpp(306): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>d:\沐戈\work\work\源.cpp(308): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(230) : 参见“fscanf”的声明
+     1>d:\沐戈\work\work\源.cpp(320): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\沐戈\work\work\源.cpp(387): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(402): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(418): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(434): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(448): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(451): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(456): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(467): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(470): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(476): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(487): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(490): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(495): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(506): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(509): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(514): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(525): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(528): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(533): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(545): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(548): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(553): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(563): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(575): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(589): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(592): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(597): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(615): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(629): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(642): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(649): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(657): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>d:\沐戈\work\work\源.cpp(519): warning C4700: 使用了未初始化的局部变量“next”
+       Link:
+         D:\Program Files\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\沐戈\work\Debug\work.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\沐戈\work\Debug\work.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\沐戈\work\Debug\work.lib" /MACHINE:X86 "Debug\源.obj"
+         work.vcxproj -> D:\沐戈\work\Debug\work.exe
+     1>已完成生成项目“D:\沐戈\work\work\work.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.70
